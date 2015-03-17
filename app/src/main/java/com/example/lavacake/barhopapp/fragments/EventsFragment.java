@@ -54,8 +54,8 @@ public class EventsFragment extends Fragment {
 
         String[] subTitles = {
                 "Bar and Lounge",
-                "Bar and Restaurant,",
-                "Bar and Lounge,",
+                "Bar and Restaurant",
+                "Bar and Lounge",
                 "Bar and Restaurant",
                 "Pub"
         };
