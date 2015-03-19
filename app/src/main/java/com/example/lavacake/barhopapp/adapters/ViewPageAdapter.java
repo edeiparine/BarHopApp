@@ -9,7 +9,7 @@ import com.example.lavacake.barhopapp.fragments.EventsFragment;
 /**
  * Created by lavacake on 3/16/2015.
  */
-public class ViewPageAdapter extends FragmentPagerAdapter{
+public class ViewPageAdapter extends FragmentPagerAdapter  {
 
     private final int PAGE_COUNT = 2;
 
