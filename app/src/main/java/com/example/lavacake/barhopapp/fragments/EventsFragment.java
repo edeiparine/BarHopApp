@@ -37,11 +37,11 @@ public class EventsFragment extends Fragment {
     public static List<Information> getData() {
         List<Information> data = new ArrayList<>();
         int[] icons = {
-                R.drawable.ic_number1,
-                R.drawable.ic_number1,
-                R.drawable.ic_number2,
-                R.drawable.ic_number3,
-                R.drawable.ic_number4
+                R.drawable.bar,
+                R.drawable.bar,
+                R.drawable.bar,
+                R.drawable.bar,
+                R.drawable.bar
         };
 
         String[] titles = {
